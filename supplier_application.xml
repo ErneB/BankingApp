@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item_applications>
+<application>
+<type ID='item'>
+<location>item.php</location>
+</type>
+</application>
+<application>
+<type ID='selectbox'>
+<location>get_suppliers.php</location>
+</type>
+</application>
+<application>
+<type ID='suppliers'>
+<location>suppliers.xml</location>
+</type>
+</application>
+<application>
+<type ID='conditions'>
+<location>conditions.xml</location>
+</type>
+</application>
+<application>
+<type ID='category'>
+<location>categories.xml</location>
+</type>
+</application>
+<application>
+<type ID='datastorage'>
+<location>database.xml</location>
+</type>
+</application>
+<application>
+<type ID='itemdata'>
+<location>item_data_class.php</location>
+</type>
+</application>
+</item_applications> 
+
